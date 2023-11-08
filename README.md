@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, I'm Gerardo terrazas Ortega</h1>
+<h1 align="center">hi 👋, I'm Gerardo Terrazas Ortega</h1>
 <h3 align="center">A passionate system developer from México</h3>
 
 - 💬 Ask me about **Angularjs, JavaScript .Net, C#**
